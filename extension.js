@@ -44,7 +44,6 @@
             }
         };
         
-         */
          bot.commands.versionCommand = {
             command: 'version',  //The command to be called. With the standard command literal this would be: !bacon
             rank: 'user', //Minimum user permission to use the command
